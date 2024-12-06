@@ -11,6 +11,8 @@ GLFWHandler::~GLFWHandler() {
 }
 
 void GLFWHandler::init(int width, int height, const std::string& title) {
+  m_aspectRatio = (float) width/height;
+
   if (!glfwInit()) {
     std::cout << "Failed to initialize GLFW!" << '\n';
     return;
@@ -24,12 +26,20 @@ void GLFWHandler::init(int width, int height, const std::string& title) {
     return;
   }
 
+  glfwSetFramebufferSizeCallback(m_window, [](GLFWwindow* window, int w, int h) {
+    glViewport(0, 0, w, h);
+  });
+
   glfwMakeContextCurrent(m_window);
 
   if(!gladLoadGLLoader((GLADloadproc) glfwGetProcAddress)) {
     std::cout << "Failed to initialize glad!" << '\n';
     return;
   }
+
+  int w, h;
+  glfwGetFramebufferSize(m_window, &w, &h);
+  glViewport(0, 0, w, h);
 }
 
 GLFWwindow* GLFWHandler::window() const {

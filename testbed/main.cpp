@@ -2,6 +2,6 @@
 
 int main() {
   TestBed testBed;
-  testBed.init(800, 600, "SandBox");
+  testBed.init(800, 800, "SandBox");
   testBed.update();
 }

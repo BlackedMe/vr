@@ -1,0 +1,224 @@
+[
+{
+  "directory": "/home/black/Documents/Projects/vr/build",
+  "command": "/usr/bin/c++  -I/home/black/Documents/Projects/vr/testbed -I/home/black/Documents/Projects/vr/deps/glad/include -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glm -I/home/black/Documents/Projects/vr/include  -o CMakeFiles/testbed.dir/testbed/main.cpp.o -c /home/black/Documents/Projects/vr/testbed/main.cpp",
+  "file": "/home/black/Documents/Projects/vr/testbed/main.cpp",
+  "output": "CMakeFiles/testbed.dir/testbed/main.cpp.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build",
+  "command": "/usr/bin/c++  -I/home/black/Documents/Projects/vr/testbed -I/home/black/Documents/Projects/vr/deps/glad/include -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glm -I/home/black/Documents/Projects/vr/include  -o CMakeFiles/testbed.dir/testbed/testbed.cpp.o -c /home/black/Documents/Projects/vr/testbed/testbed.cpp",
+  "file": "/home/black/Documents/Projects/vr/testbed/testbed.cpp",
+  "output": "CMakeFiles/testbed.dir/testbed/testbed.cpp.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build",
+  "command": "/usr/bin/c++  -I/home/black/Documents/Projects/vr/testbed -I/home/black/Documents/Projects/vr/deps/glad/include -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glm -I/home/black/Documents/Projects/vr/include  -o CMakeFiles/testbed.dir/src/handler/glfwHandler.cpp.o -c /home/black/Documents/Projects/vr/src/handler/glfwHandler.cpp",
+  "file": "/home/black/Documents/Projects/vr/src/handler/glfwHandler.cpp",
+  "output": "CMakeFiles/testbed.dir/src/handler/glfwHandler.cpp.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build",
+  "command": "/usr/bin/c++  -I/home/black/Documents/Projects/vr/testbed -I/home/black/Documents/Projects/vr/deps/glad/include -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glm -I/home/black/Documents/Projects/vr/include  -o CMakeFiles/testbed.dir/src/handler/program.cpp.o -c /home/black/Documents/Projects/vr/src/handler/program.cpp",
+  "file": "/home/black/Documents/Projects/vr/src/handler/program.cpp",
+  "output": "CMakeFiles/testbed.dir/src/handler/program.cpp.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build",
+  "command": "/usr/bin/c++  -I/home/black/Documents/Projects/vr/testbed -I/home/black/Documents/Projects/vr/deps/glad/include -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glm -I/home/black/Documents/Projects/vr/include  -o CMakeFiles/testbed.dir/src/rendering/batchRenderer.cpp.o -c /home/black/Documents/Projects/vr/src/rendering/batchRenderer.cpp",
+  "file": "/home/black/Documents/Projects/vr/src/rendering/batchRenderer.cpp",
+  "output": "CMakeFiles/testbed.dir/src/rendering/batchRenderer.cpp.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build",
+  "command": "/usr/bin/c++  -I/home/black/Documents/Projects/vr/testbed -I/home/black/Documents/Projects/vr/deps/glad/include -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glm -I/home/black/Documents/Projects/vr/include  -o CMakeFiles/testbed.dir/src/rendering/cube.cpp.o -c /home/black/Documents/Projects/vr/src/rendering/cube.cpp",
+  "file": "/home/black/Documents/Projects/vr/src/rendering/cube.cpp",
+  "output": "CMakeFiles/testbed.dir/src/rendering/cube.cpp.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build",
+  "command": "/usr/bin/c++  -I/home/black/Documents/Projects/vr/testbed -I/home/black/Documents/Projects/vr/deps/glad/include -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glm -I/home/black/Documents/Projects/vr/include  -o CMakeFiles/testbed.dir/src/rendering/renderer.cpp.o -c /home/black/Documents/Projects/vr/src/rendering/renderer.cpp",
+  "file": "/home/black/Documents/Projects/vr/src/rendering/renderer.cpp",
+  "output": "CMakeFiles/testbed.dir/src/rendering/renderer.cpp.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build",
+  "command": "/usr/bin/c++  -I/home/black/Documents/Projects/vr/testbed -I/home/black/Documents/Projects/vr/deps/glad/include -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glm -I/home/black/Documents/Projects/vr/include  -o CMakeFiles/testbed.dir/src/utility/parser.cpp.o -c /home/black/Documents/Projects/vr/src/utility/parser.cpp",
+  "file": "/home/black/Documents/Projects/vr/src/utility/parser.cpp",
+  "output": "CMakeFiles/testbed.dir/src/utility/parser.cpp.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build",
+  "command": "/usr/bin/c++  -I/home/black/Documents/Projects/vr/testbed -I/home/black/Documents/Projects/vr/deps/glad/include -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glm -I/home/black/Documents/Projects/vr/include  -o CMakeFiles/testbed.dir/src/utility/shader.cpp.o -c /home/black/Documents/Projects/vr/src/utility/shader.cpp",
+  "file": "/home/black/Documents/Projects/vr/src/utility/shader.cpp",
+  "output": "CMakeFiles/testbed.dir/src/utility/shader.cpp.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build",
+  "command": "/usr/bin/c++  -I/home/black/Documents/Projects/vr/testbed -I/home/black/Documents/Projects/vr/deps/glad/include -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glm -I/home/black/Documents/Projects/vr/include  -o CMakeFiles/testbed.dir/src/utility/uniform.cpp.o -c /home/black/Documents/Projects/vr/src/utility/uniform.cpp",
+  "file": "/home/black/Documents/Projects/vr/src/utility/uniform.cpp",
+  "output": "CMakeFiles/testbed.dir/src/utility/uniform.cpp.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build/deps/glad",
+  "command": "/usr/bin/cc -Dglad_EXPORTS  -fPIC -o CMakeFiles/glad.dir/src/glad.c.o -c /home/black/Documents/Projects/vr/deps/glad/src/glad.c",
+  "file": "/home/black/Documents/Projects/vr/deps/glad/src/glad.c",
+  "output": "deps/glad/CMakeFiles/glad.dir/src/glad.c.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build/deps/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_BUILD_DLL -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glfw/src -I/home/black/Documents/Projects/vr/build/deps/glfw/src -std=c99 -fPIC -Wall -fvisibility=hidden -o CMakeFiles/glfw.dir/context.c.o -c /home/black/Documents/Projects/vr/deps/glfw/src/context.c",
+  "file": "/home/black/Documents/Projects/vr/deps/glfw/src/context.c",
+  "output": "deps/glfw/src/CMakeFiles/glfw.dir/context.c.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build/deps/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_BUILD_DLL -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glfw/src -I/home/black/Documents/Projects/vr/build/deps/glfw/src -std=c99 -fPIC -Wall -fvisibility=hidden -o CMakeFiles/glfw.dir/init.c.o -c /home/black/Documents/Projects/vr/deps/glfw/src/init.c",
+  "file": "/home/black/Documents/Projects/vr/deps/glfw/src/init.c",
+  "output": "deps/glfw/src/CMakeFiles/glfw.dir/init.c.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build/deps/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_BUILD_DLL -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glfw/src -I/home/black/Documents/Projects/vr/build/deps/glfw/src -std=c99 -fPIC -Wall -fvisibility=hidden -o CMakeFiles/glfw.dir/input.c.o -c /home/black/Documents/Projects/vr/deps/glfw/src/input.c",
+  "file": "/home/black/Documents/Projects/vr/deps/glfw/src/input.c",
+  "output": "deps/glfw/src/CMakeFiles/glfw.dir/input.c.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build/deps/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_BUILD_DLL -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glfw/src -I/home/black/Documents/Projects/vr/build/deps/glfw/src -std=c99 -fPIC -Wall -fvisibility=hidden -o CMakeFiles/glfw.dir/monitor.c.o -c /home/black/Documents/Projects/vr/deps/glfw/src/monitor.c",
+  "file": "/home/black/Documents/Projects/vr/deps/glfw/src/monitor.c",
+  "output": "deps/glfw/src/CMakeFiles/glfw.dir/monitor.c.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build/deps/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_BUILD_DLL -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glfw/src -I/home/black/Documents/Projects/vr/build/deps/glfw/src -std=c99 -fPIC -Wall -fvisibility=hidden -o CMakeFiles/glfw.dir/platform.c.o -c /home/black/Documents/Projects/vr/deps/glfw/src/platform.c",
+  "file": "/home/black/Documents/Projects/vr/deps/glfw/src/platform.c",
+  "output": "deps/glfw/src/CMakeFiles/glfw.dir/platform.c.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build/deps/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_BUILD_DLL -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glfw/src -I/home/black/Documents/Projects/vr/build/deps/glfw/src -std=c99 -fPIC -Wall -fvisibility=hidden -o CMakeFiles/glfw.dir/vulkan.c.o -c /home/black/Documents/Projects/vr/deps/glfw/src/vulkan.c",
+  "file": "/home/black/Documents/Projects/vr/deps/glfw/src/vulkan.c",
+  "output": "deps/glfw/src/CMakeFiles/glfw.dir/vulkan.c.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build/deps/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_BUILD_DLL -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glfw/src -I/home/black/Documents/Projects/vr/build/deps/glfw/src -std=c99 -fPIC -Wall -fvisibility=hidden -o CMakeFiles/glfw.dir/window.c.o -c /home/black/Documents/Projects/vr/deps/glfw/src/window.c",
+  "file": "/home/black/Documents/Projects/vr/deps/glfw/src/window.c",
+  "output": "deps/glfw/src/CMakeFiles/glfw.dir/window.c.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build/deps/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_BUILD_DLL -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glfw/src -I/home/black/Documents/Projects/vr/build/deps/glfw/src -std=c99 -fPIC -Wall -fvisibility=hidden -o CMakeFiles/glfw.dir/egl_context.c.o -c /home/black/Documents/Projects/vr/deps/glfw/src/egl_context.c",
+  "file": "/home/black/Documents/Projects/vr/deps/glfw/src/egl_context.c",
+  "output": "deps/glfw/src/CMakeFiles/glfw.dir/egl_context.c.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build/deps/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_BUILD_DLL -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glfw/src -I/home/black/Documents/Projects/vr/build/deps/glfw/src -std=c99 -fPIC -Wall -fvisibility=hidden -o CMakeFiles/glfw.dir/osmesa_context.c.o -c /home/black/Documents/Projects/vr/deps/glfw/src/osmesa_context.c",
+  "file": "/home/black/Documents/Projects/vr/deps/glfw/src/osmesa_context.c",
+  "output": "deps/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build/deps/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_BUILD_DLL -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glfw/src -I/home/black/Documents/Projects/vr/build/deps/glfw/src -std=c99 -fPIC -Wall -fvisibility=hidden -o CMakeFiles/glfw.dir/null_init.c.o -c /home/black/Documents/Projects/vr/deps/glfw/src/null_init.c",
+  "file": "/home/black/Documents/Projects/vr/deps/glfw/src/null_init.c",
+  "output": "deps/glfw/src/CMakeFiles/glfw.dir/null_init.c.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build/deps/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_BUILD_DLL -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glfw/src -I/home/black/Documents/Projects/vr/build/deps/glfw/src -std=c99 -fPIC -Wall -fvisibility=hidden -o CMakeFiles/glfw.dir/null_monitor.c.o -c /home/black/Documents/Projects/vr/deps/glfw/src/null_monitor.c",
+  "file": "/home/black/Documents/Projects/vr/deps/glfw/src/null_monitor.c",
+  "output": "deps/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build/deps/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_BUILD_DLL -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glfw/src -I/home/black/Documents/Projects/vr/build/deps/glfw/src -std=c99 -fPIC -Wall -fvisibility=hidden -o CMakeFiles/glfw.dir/null_window.c.o -c /home/black/Documents/Projects/vr/deps/glfw/src/null_window.c",
+  "file": "/home/black/Documents/Projects/vr/deps/glfw/src/null_window.c",
+  "output": "deps/glfw/src/CMakeFiles/glfw.dir/null_window.c.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build/deps/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_BUILD_DLL -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glfw/src -I/home/black/Documents/Projects/vr/build/deps/glfw/src -std=c99 -fPIC -Wall -fvisibility=hidden -o CMakeFiles/glfw.dir/null_joystick.c.o -c /home/black/Documents/Projects/vr/deps/glfw/src/null_joystick.c",
+  "file": "/home/black/Documents/Projects/vr/deps/glfw/src/null_joystick.c",
+  "output": "deps/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build/deps/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_BUILD_DLL -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glfw/src -I/home/black/Documents/Projects/vr/build/deps/glfw/src -std=c99 -fPIC -Wall -fvisibility=hidden -o CMakeFiles/glfw.dir/posix_module.c.o -c /home/black/Documents/Projects/vr/deps/glfw/src/posix_module.c",
+  "file": "/home/black/Documents/Projects/vr/deps/glfw/src/posix_module.c",
+  "output": "deps/glfw/src/CMakeFiles/glfw.dir/posix_module.c.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build/deps/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_BUILD_DLL -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glfw/src -I/home/black/Documents/Projects/vr/build/deps/glfw/src -std=c99 -fPIC -Wall -fvisibility=hidden -o CMakeFiles/glfw.dir/posix_time.c.o -c /home/black/Documents/Projects/vr/deps/glfw/src/posix_time.c",
+  "file": "/home/black/Documents/Projects/vr/deps/glfw/src/posix_time.c",
+  "output": "deps/glfw/src/CMakeFiles/glfw.dir/posix_time.c.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build/deps/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_BUILD_DLL -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glfw/src -I/home/black/Documents/Projects/vr/build/deps/glfw/src -std=c99 -fPIC -Wall -fvisibility=hidden -o CMakeFiles/glfw.dir/posix_thread.c.o -c /home/black/Documents/Projects/vr/deps/glfw/src/posix_thread.c",
+  "file": "/home/black/Documents/Projects/vr/deps/glfw/src/posix_thread.c",
+  "output": "deps/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build/deps/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_BUILD_DLL -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glfw/src -I/home/black/Documents/Projects/vr/build/deps/glfw/src -std=c99 -fPIC -Wall -fvisibility=hidden -o CMakeFiles/glfw.dir/x11_init.c.o -c /home/black/Documents/Projects/vr/deps/glfw/src/x11_init.c",
+  "file": "/home/black/Documents/Projects/vr/deps/glfw/src/x11_init.c",
+  "output": "deps/glfw/src/CMakeFiles/glfw.dir/x11_init.c.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build/deps/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_BUILD_DLL -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glfw/src -I/home/black/Documents/Projects/vr/build/deps/glfw/src -std=c99 -fPIC -Wall -fvisibility=hidden -o CMakeFiles/glfw.dir/x11_monitor.c.o -c /home/black/Documents/Projects/vr/deps/glfw/src/x11_monitor.c",
+  "file": "/home/black/Documents/Projects/vr/deps/glfw/src/x11_monitor.c",
+  "output": "deps/glfw/src/CMakeFiles/glfw.dir/x11_monitor.c.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build/deps/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_BUILD_DLL -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glfw/src -I/home/black/Documents/Projects/vr/build/deps/glfw/src -std=c99 -fPIC -Wall -fvisibility=hidden -o CMakeFiles/glfw.dir/x11_window.c.o -c /home/black/Documents/Projects/vr/deps/glfw/src/x11_window.c",
+  "file": "/home/black/Documents/Projects/vr/deps/glfw/src/x11_window.c",
+  "output": "deps/glfw/src/CMakeFiles/glfw.dir/x11_window.c.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build/deps/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_BUILD_DLL -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glfw/src -I/home/black/Documents/Projects/vr/build/deps/glfw/src -std=c99 -fPIC -Wall -fvisibility=hidden -o CMakeFiles/glfw.dir/xkb_unicode.c.o -c /home/black/Documents/Projects/vr/deps/glfw/src/xkb_unicode.c",
+  "file": "/home/black/Documents/Projects/vr/deps/glfw/src/xkb_unicode.c",
+  "output": "deps/glfw/src/CMakeFiles/glfw.dir/xkb_unicode.c.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build/deps/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_BUILD_DLL -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glfw/src -I/home/black/Documents/Projects/vr/build/deps/glfw/src -std=c99 -fPIC -Wall -fvisibility=hidden -o CMakeFiles/glfw.dir/glx_context.c.o -c /home/black/Documents/Projects/vr/deps/glfw/src/glx_context.c",
+  "file": "/home/black/Documents/Projects/vr/deps/glfw/src/glx_context.c",
+  "output": "deps/glfw/src/CMakeFiles/glfw.dir/glx_context.c.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build/deps/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_BUILD_DLL -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glfw/src -I/home/black/Documents/Projects/vr/build/deps/glfw/src -std=c99 -fPIC -Wall -fvisibility=hidden -o CMakeFiles/glfw.dir/wl_init.c.o -c /home/black/Documents/Projects/vr/deps/glfw/src/wl_init.c",
+  "file": "/home/black/Documents/Projects/vr/deps/glfw/src/wl_init.c",
+  "output": "deps/glfw/src/CMakeFiles/glfw.dir/wl_init.c.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build/deps/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_BUILD_DLL -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glfw/src -I/home/black/Documents/Projects/vr/build/deps/glfw/src -std=c99 -fPIC -Wall -fvisibility=hidden -o CMakeFiles/glfw.dir/wl_monitor.c.o -c /home/black/Documents/Projects/vr/deps/glfw/src/wl_monitor.c",
+  "file": "/home/black/Documents/Projects/vr/deps/glfw/src/wl_monitor.c",
+  "output": "deps/glfw/src/CMakeFiles/glfw.dir/wl_monitor.c.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build/deps/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_BUILD_DLL -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glfw/src -I/home/black/Documents/Projects/vr/build/deps/glfw/src -std=c99 -fPIC -Wall -fvisibility=hidden -o CMakeFiles/glfw.dir/wl_window.c.o -c /home/black/Documents/Projects/vr/deps/glfw/src/wl_window.c",
+  "file": "/home/black/Documents/Projects/vr/deps/glfw/src/wl_window.c",
+  "output": "deps/glfw/src/CMakeFiles/glfw.dir/wl_window.c.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build/deps/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_BUILD_DLL -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glfw/src -I/home/black/Documents/Projects/vr/build/deps/glfw/src -std=c99 -fPIC -Wall -fvisibility=hidden -o CMakeFiles/glfw.dir/linux_joystick.c.o -c /home/black/Documents/Projects/vr/deps/glfw/src/linux_joystick.c",
+  "file": "/home/black/Documents/Projects/vr/deps/glfw/src/linux_joystick.c",
+  "output": "deps/glfw/src/CMakeFiles/glfw.dir/linux_joystick.c.o"
+},
+{
+  "directory": "/home/black/Documents/Projects/vr/build/deps/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_BUILD_DLL -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/black/Documents/Projects/vr/deps/glfw/include -I/home/black/Documents/Projects/vr/deps/glfw/src -I/home/black/Documents/Projects/vr/build/deps/glfw/src -std=c99 -fPIC -Wall -fvisibility=hidden -o CMakeFiles/glfw.dir/posix_poll.c.o -c /home/black/Documents/Projects/vr/deps/glfw/src/posix_poll.c",
+  "file": "/home/black/Documents/Projects/vr/deps/glfw/src/posix_poll.c",
+  "output": "deps/glfw/src/CMakeFiles/glfw.dir/posix_poll.c.o"
+}
+]

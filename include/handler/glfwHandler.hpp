@@ -12,7 +12,11 @@ public:
 
   GLFWwindow* window() const;
 
+  float aspectRatio() const;
+
 private:
   GLFWwindow* m_window;
+
+  float m_aspectRatio;
 };
 } // namespace SphereX

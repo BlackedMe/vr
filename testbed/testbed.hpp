@@ -1,5 +1,7 @@
+#define GLFW_INCLUDE_NONE
 #include "core/application.hpp"
 #include "handler/glfwHandler.hpp"
+#include "handler/program.hpp"
 #include "rendering/renderer.hpp"
 
 class TestBed : public SphereX::Application {
@@ -10,4 +12,5 @@ public:
 private:
   SphereX::GLFWHandler glfwHandler;
   SphereX::Renderer renderer;
+  SphereX::Program program;
 };
